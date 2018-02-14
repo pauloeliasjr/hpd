@@ -1,0 +1,9 @@
+* [33m (HEAD -> master, tag: 1.1, origin/master, origin/aula)[m [36m06e29fe[m adding commands.txt [32m(3 minutes ago) [1;34m<Paulo Elias da Costa Junior>[m
+* [33m[m [36m007761c[m adding file on branch master [32m(7 minutes ago) [1;34m<Paulo Elias da Costa Junior>[m
+*   [33m (tag: 1.0)[m [36m4f39be7[m Merge branch 'aula1' [32m(65 minutes ago) [1;34m<Paulo Elias da Costa Junior>[m
+|\  
+| * [33m[m [36m2324d8e[m add test branch [32m(72 minutes ago) [1;34m<Paulo Elias da Costa Junior>[m
+|/  
+* [33m[m [36m6dc9477[m remove test_file [32m(85 minutes ago) [1;34m<Paulo Elias da Costa Junior>[m
+* [33m[m [36m52307f6[m add test file [32m(2 hours ago) [1;34m<Paulo Elias da Costa Junior>[m
+* [33m[m [36m8be02db[m Initial Commit [32m(2 hours ago) [1;34m<Paulo Elias da Costa Junior>[m
