@@ -1,0 +1,13 @@
+git init
+git clone <url ou ssh repo>
+git add .
+git commit -m "notes about the crap code you wrote"
+git push
+git push origin master
+git branch <nome da branch>
+git checkout <nome da branch>
+git merge <nome da brancg>
+git tag <nome da tag> <id commit> (se nao colocar nada, herda o ultimo commit dentro da branch)
+git fetch
+git pull
+
