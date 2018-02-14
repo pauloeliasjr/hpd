@@ -6,4 +6,4 @@
 |/  
 * [33m[m [36m6dc9477[m remove test_file [32m(85 minutes ago) [1;34m<Paulo Elias da Costa Junior>[m
 * [33m[m [36m52307f6[m add test file [32m(2 hours ago) [1;34m<Paulo Elias da Costa Junior>[m
-* [33m[m [36m8be02db[m Initial Commit [32m(2 hours ago) [1;34m<Paulo Elias da Costa Junior>[m
+* [33m[m [36m8be02db[m  Initial Commit [32m(2 hours ago) [1;34m<Paulo Elias da Costa Junior>[m
